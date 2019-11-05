@@ -1,7 +1,5 @@
 import numpy as np
 
-
-
 def load_linear_example1():
         """
         >>> X, Y = load_linear_example1()
